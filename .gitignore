@@ -7,3 +7,6 @@ z.zip
 dist/
 data/
 result.json
+
+# OS
+.DS_Store
